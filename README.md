@@ -1,17 +1,6 @@
 An implementation of Generalised Hough transform
 ===================
 
-
-List of implemented filters / algorithms:
-
-- Bilateral filter
-- Gaussian filter
-- Cartoonification
-- Local Histogram plotter
-
-----------
-
-
 Description
 -------------
 
