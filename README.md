@@ -29,7 +29,21 @@ The steps involved in applying a GHT are as follows (in order):
 - match table with original image
 - find maximum points in the returned accumulator array
  
-#### <i class=""></i> Bilateral Filter
-
 Result
 -------------
+![accumulator result](https://github.com/adl1995/generalised-hough-transform/blob/master/acc-image.png)
+
+![final result](https://github.com/adl1995/generalised-hough-transform/blob/master/result.png)
+
+How to run
+-------------
+
+To run this program you need the following libraries installed:
+
+ - Matplotlib
+ - Skimage
+ - Numpy
+
+After this, just open up a terminal and type
+	> python generalized-hough-demo.py
+
