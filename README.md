@@ -33,9 +33,14 @@ To run this program you need the following libraries installed:
  - Skimage
  - Numpy
 
-Clone this respository using 
-	> - git clone https://github.com/adl1995/generalised-hough-transform.git
+Clone this respository using:
 
-After this, just open up a terminal and type
-	> - python generalized-hough-demo.py
+```
+git clone https://github.com/adl1995/generalised-hough-transform.git
+```
 
+After this, just open up a terminal and type:
+
+```
+python generalized-hough-demo.py
+```
