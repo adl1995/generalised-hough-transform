@@ -8,7 +8,7 @@ GHT was developed to detect analytically defined shapes (e.g., line, circle, ell
 
 Motivation
 -------------
-After going through Ballard's paper on 'GENERALIZING THE HOUGH TRANSFORM TO DETECT ARBITRARY SHAPES' [ http://web.eecs.umich.edu/~silvio/teaching/EECS598/papers/Ballard.pdf ], I was intrigued as to how a simple change to the Hough Transform could allow us to detect irregular shapes.
+Dana H. Ballard's paper on [Generalizing the Hough Transform to Detect Arbitrary Shapes](http://web.eecs.umich.edu/~silvio/teaching/EECS598/papers/Ballard.pdf) intrigued me as to how a simple change to the Hough Transform could allow us to detect irregular shapes.
 
 Steps
 -------------
