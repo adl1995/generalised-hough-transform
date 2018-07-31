@@ -6,7 +6,7 @@ __status__ = "Production"
 
 import numpy as np
 from scipy.ndimage import convolve
-from buildRefTable import buildRefTable
+from build_reference_table import *
 from skimage import io
 import matplotlib.pyplot as plt
 

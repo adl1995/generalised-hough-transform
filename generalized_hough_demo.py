@@ -6,9 +6,9 @@ __status__ = "Production"
 
 from skimage.io import imread, imshow
 import matplotlib.pyplot as plt
-from buildRefTable import *
-from matchTable import *
-from findMaxima import *
+from build_reference_table import *
+from match_table import *
+from find_maxima import *
 import numpy as np
 
 images = ['Input1Ref.png', 'Input2Ref.png']
