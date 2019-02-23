@@ -24,23 +24,27 @@ Result
 
 ![final result](https://github.com/adl1995/generalised-hough-transform/blob/master/result.png)
 
+Requirements
+-------------
+
+- Python 2.7
+- Libraries:
+
+ * Matplotlib
+ * Skimage
+ * Numpy
+
 How to run
 -------------
 
-To run this program you need the following libraries installed:
-
- - Matplotlib
- - Skimage
- - Numpy
-
-Clone this respository using:
+Clone the respository:
 
 ```
-git clone https://github.com/adl1995/generalised-hough-transform.git
+git clone https://github.com/adl1995/generalised_hough_transform.git
 ```
 
-After this, just open up a terminal and type:
+Execute the demo script:
 
 ```
-python generalized-hough-demo.py
+python generalized_hough_demo.py
 ```

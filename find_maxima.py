@@ -15,5 +15,5 @@ def findMaxima(acc):
         ridx: row index of the maxval
         cidx: column index of the maxval
     """
-    ridx,cidx = np.unravel_index(acc.argmax(),acc.shape)
-    return [acc[ridx,cidx],ridx,cidx]
+    ridx, cidx = np.unravel_index(acc.argmax(), acc.shape)
+    return [acc[ridx, cidx], ridx, cidx]
