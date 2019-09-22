@@ -25,7 +25,7 @@ def matchTable(im, table):
 
     def findGradient(x, y):
         if (x != 0):
-            return int(np.rad2deg(np.arctan(y/x)))
+            return int(np.rad2deg(np.arctan(int(y/x))))
         else:
             return 0
 
