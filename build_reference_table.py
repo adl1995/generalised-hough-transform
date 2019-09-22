@@ -25,7 +25,7 @@ def buildRefTable(img):
         x2, y2 = img_center[0], img_center[1]
         r = [(x2-x1), (y2-y1)]
         if (x2-x1 != 0):
-            return [int(np.rad2deg(np.arctan(int((y2-y1)/(x2-x1)))), r)]
+            return [int(np.rad2deg(np.arctan(int((y2-y1)/(x2-x1))))), r]
         else:
             return [0, 0]
 
